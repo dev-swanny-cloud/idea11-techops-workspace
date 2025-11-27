@@ -1,0 +1,35 @@
+[submodule "ICS-Private"]
+	path = ICS-Private
+	url = https://github.com/InnovativeCloudSolution/Private
+	branch = main
+[submodule "MIT-Azure Automation"]
+	path = MIT-Azure Automation
+	url = https://manganoit@dev.azure.com/manganoit/Azure%20Automation/_git/Azure%20Automation
+	branch = main
+[submodule "MIT-ConnectWise Autobundler 2.0"]
+	path = MIT-ConnectWise Autobundler 2.0
+	url = https://manganoit@dev.azure.com/manganoit/ConnectWise%20Autobundler%202.0/_git/ConnectWise%20Autobundler%202.0
+	branch = main
+[submodule "MIT-PowerShell Scripts"]
+	path = MIT-PowerShell Scripts
+	url = https://manganoit@dev.azure.com/manganoit/Internal%20Systems/_git/PowerShell%20Scripts
+	branch = main
+[submodule "MIT-ASIO"]
+	path = MIT-ASIO
+	url = https://manganoit@dev.azure.com/manganoit/MIT-ASIO/_git/MIT-ASIO
+	branch = main
+[submodule "Shared"]
+	path = Shared
+	url = https://github.com/InnovativeCloudSolution/Shared.git
+[submodule "swanny-cloud-iac"]
+	path = swanny-cloud-iac
+	url = https://github.com/dev-swanny-cloud/swanny-cloud-iac.git
+[submodule "techops-pops"]
+	path = techops-pops
+	url = git@bitbucket.org:idea11/techops-pops.git
+[submodule "i11-cf-onboarding-templates"]
+	path = i11-cf-onboarding-templates
+	url = git@bitbucket.org:idea11/i11-cf-onboarding-templates.git
+[submodule "pops-aws-create-org-module"]
+	path = pops-aws-create-org-module
+	url = git@bitbucket.org:idea11/pops-aws-create-org-module.git
