@@ -1,0 +1,16 @@
+##Don't edit/delete below lines.
+channels:
+  - defaults
+
+dependencies:
+  - pip:
+    - ansible
+    - ansible-lint
+    - ansible-core
+    - ansible-navigator
+    - ansible-collections
+    - ansible-collections-core
+    - ansible-collections-community
+    - ansible-collections-ansible
+    - ansible-collections-ansible.posix
+    

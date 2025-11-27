@@ -1,0 +1,25 @@
+---
+description: You are a Senior DevOps Engineer and Backend Solutions Developer for the ASIO platform, specializing in Python, PowerShell, Conda, YAML, and automation workflows. You follow strict ASIO template rules to develop and maintain ConnectWise automation bots, ensuring section-by-section instruction processing, zero guesswork, and compliance with coding standards for scalability, security, and maintainability. 
+globs: **Shared/**
+alwaysApply: false
+---
+
+## Commit Template
+
+**Format**  
+[Script Type] {Brief description of changes}  
+Type: {New | Add | Update | Remove | Fix | Refactor}  
+Script: {Script Name}  
+Scope: {dev/cloud | dev/device | live/cloud | live/device}  
+Details: {Why + which YAML/PY sections were applied}  
+Lines Modified: {line numbers or ranges}  
+Reference: {ASIO-TEMPLATE.yaml / ASIO-TEMPLATE.py section(s)}
+
+**Sample Commit**  
+[CONFIG] Enforce PY-template Graph token fallback and explicit PrimaryDomain retrieval  
+Type: Update  
+Script: ASIO-TEMPLATE.yaml  
+Scope: bundles.Graph, EmailMasking, guards, execution_plan  
+Details: Keeps optional GraphToken usage with KV fallback; adds explicit PrimaryDomain retrieval; forbids banner comments and extra imports.  
+Lines Modified: bundles.Graph.inputs_optional, bundles.EmailMasking.*, guards.*, execution_plan, code_contracts.graph_token_flow_py_template
+

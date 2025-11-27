@@ -1,0 +1,21 @@
+﻿
+.logs/ 
+
+**/.venv/ **/__pycache__/ **/.pytest_cache/ **/.mypy_cache/ **/.ruff_cache/ 
+
+**/.conda/ **/.conda_env/ **/.conda_pkgs/ **/.condarc 
+
+**/node_modules/ **/dist/ **/build/ **/bin/ **/obj/ **/.terraform/ **/.scannerwork/ 
+
+**/.coverage **/coverage/ **/*.lock 
+
+**/.env **/.env.local 
+
+local.settings.json 
+
+.vscode/ .DS_Store Thumbs.db 
+
+Output/
+
+input.json
+
