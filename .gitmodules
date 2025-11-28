@@ -33,3 +33,6 @@
 [submodule "pops-aws-create-org-module"]
 	path = pops-aws-create-org-module
 	url = git@bitbucket.org:idea11/pops-aws-create-org-module.git
+[submodule "pops-aws-account-onboarding-module"]
+	path = pops-aws-account-onboarding-module
+	url = git@bitbucket.org:idea11/pops-aws-account-onboarding-module.git
