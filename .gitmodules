@@ -39,3 +39,6 @@
 [submodule "pops-aws-alternate-contact-info-module"]
 	path = pops-aws-alternate-contact-info-module
 	url = git@bitbucket.org:idea11/pops-aws-alternate-contact-info-module.git
+[submodule "pops-aws-assume-roles-module"]
+	path = pops-aws-assume-roles-module
+	url = git@bitbucket.org:idea11/pops-aws-assume-roles-module.git
