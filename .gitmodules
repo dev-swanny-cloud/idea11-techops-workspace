@@ -36,3 +36,6 @@
 [submodule "pops-aws-account-onboarding-module"]
 	path = pops-aws-account-onboarding-module
 	url = git@bitbucket.org:idea11/pops-aws-account-onboarding-module.git
+[submodule "pops-aws-alternate-contact-info-module"]
+	path = pops-aws-alternate-contact-info-module
+	url = git@bitbucket.org:idea11/pops-aws-alternate-contact-info-module.git
